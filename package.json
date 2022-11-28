@@ -21,10 +21,10 @@
   },
   "homepage": "https://github.com/comp426-2022-fall/a03-davisatwell#readme",
   "bin": {
-      "roll-dice": "./bin/cli.js"
-    },
-    "dependencies": {
-      "minimist": "^1.2.7"
-    },
-    "type": "module"
+    "roll-dice": "./bin/cli.js"
+  },
+  "dependencies": {
+    "minimist": "^1.2.7"
+  },
+  "type": "module"
 }
